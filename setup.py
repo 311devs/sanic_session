@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 # Set requirements here
 requirements = (
-    "311devs_sanic",
+    "311devs-sanic",
     "ujson",
 )
 
