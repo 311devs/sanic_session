@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 # Set requirements here
 requirements = (
-    "sanic",
+    "311devs_sanic",
     "ujson",
 )
 
@@ -30,7 +30,7 @@ extras_require = {
 
 
 setup(
-    name="sanic_session",
+    name="311devs_sanic_session",
     version="0.6.0",
     description=(
         "Provides server-backed sessions for Sanic " "using Redis, Memcache and more."
